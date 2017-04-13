@@ -1,10 +1,10 @@
 
 {
-    "name": "flexix/sample-entities-bundle-bundle",
+    "name": "flexix/sample-entities-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony Flexix bundle",
-    "keywords": ["flexix","configuration","controller","bundle"],
-    "homepage": "https://github.com/flexix/controller-configuration-bundle",
+    "description": "Symfony Sample Entities",
+    "keywords": ["flexix","entities","bundle"],
+    "homepage": "https://github.com/flexix/SampleEntitiesBundle",
     "license": "MIT",
     "authors": [
         {
