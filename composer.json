@@ -1,6 +1,6 @@
 
 {
-    "name": "flexix/controller-configuration-bundle",
+    "name": "flexix/sample-entities-bundle-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Flexix bundle",
     "keywords": ["flexix","configuration","controller","bundle"],
@@ -22,7 +22,7 @@
         }, 
     "autoload": {
         "psr-4": {
-            "Flexix\\ControllerConfigurationBundle\\": ""
+            "Flexix\\SampleEntitiesBundle\\": ""
         }
     },
     "minimum-stability": "dev"
