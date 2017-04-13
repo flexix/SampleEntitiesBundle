@@ -6,6 +6,7 @@
 
 ---
 
+Some entities for tests.
 
 ### Installation
 
