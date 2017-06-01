@@ -23,6 +23,5 @@
         "psr-4": {
             "Flexix\\SampleEntitiesBundle\\": ""
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
